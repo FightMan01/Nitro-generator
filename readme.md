@@ -7,4 +7,5 @@ Szükséges csomagok: `requests`<br/>
 **Fájlok**
 
 `nitrochecker` - MacOS és Linux rendszerre<br/>
-`nitrochecker.exe` - Windows rendszerre.
+`nitrochecker.exe` - Windows rendszerre.<br/>
+`proxies.txt` - Tartalmaz pár proxy-t, de ajánlom a frissek beszerzését.
